@@ -1,0 +1,6 @@
+@BaF_ToDo_HostAddress = http://localhost:5089
+
+GET {{BaF_ToDo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
